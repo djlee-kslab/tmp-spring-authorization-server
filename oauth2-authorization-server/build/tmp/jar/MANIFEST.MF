@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-security-oauth2-authorization-server
+Implementation-Version: 1.0.1-SNAPSHOT
+Created-By: 17.0.4 (Oracle Corporation)
+Automatic-Module-Name: spring.security.oauth2.authorization.server
+

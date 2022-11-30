@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/dependencies" />
+            <option value="$PROJECT_DIR$/docs" />
+            <option value="$PROJECT_DIR$/docs/src/docs/asciidoc/examples" />
+            <option value="$PROJECT_DIR$/oauth2-authorization-server" />
+            <option value="$PROJECT_DIR$/samples/custom-consent-authorizationserver" />
+            <option value="$PROJECT_DIR$/samples/default-authorizationserver" />
+            <option value="$PROJECT_DIR$/samples/federated-identity-authorizationserver" />
+            <option value="$PROJECT_DIR$/samples/messages-client" />
+            <option value="$PROJECT_DIR$/samples/messages-resource" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
